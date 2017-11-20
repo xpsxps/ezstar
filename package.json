@@ -1,17 +1,19 @@
-"repository" : {
-  "type" : "git",
-  "url" : "https://github.com/xpsxps/ezstar.git"
-},
-"build" : {
-  "appId" : "io.github.xpsxps.ezstar",
-  "win" : {
-    "target" : ["squirrel"]
+{
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/xpsxps/ezstar.git"
   },
-  "squirrelWindows" : {
-    
-  },
-  "directories": {
-    "app" : "dist",
-    "output" : "release"
+  "build" : {
+    "appId" : "io.github.xpsxps.ezstar",
+    "win" : {
+      "target" : ["squirrel"]
+    },
+    "squirrelWindows" : {
+      
+    },
+    "directories": {
+      "app" : "dist",
+      "output" : "release"
+    }
   }
 }
