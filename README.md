@@ -1,1 +1,1 @@
-# electron-test
+# ezstar
