@@ -3,6 +3,6 @@
 
 [ezstar](http://ezstar.co.kr/)
 
-카카오 문의 
+카카오 ID 
 
 **이지스타**
